@@ -52,6 +52,7 @@ Replaces self-reported call sheets with geofence-verified visits for pharma and 
 - Multi-tenant, with in-app over-the-air updates and per-tenant feature flags
 - QR pack authentication with HMAC-signed serials
 - Native Kotlin / Jetpack Compose app with a Node.js / Express backend
+- 📐 **[Read the architecture case study →](https://github.com/creazineoffice/fieldtrack-architecture)**
 
 💬 **[WhatsApp Suite for WooCommerce](https://www.creazinetech.com/whatsapp-order-updates-for-woocommerce/)** · *Live*
 Order updates on WhatsApp from the store's own business number, sent only to customers who opted in.
